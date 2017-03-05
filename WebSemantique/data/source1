@@ -1,0 +1,2 @@
+foaf:name REGEX(?object,”ˆ[A−R]) 51 S1,S2,S3
+foaf:mbox REGEX(?object,”ˆ[A−Z]) 115 S2,S3
